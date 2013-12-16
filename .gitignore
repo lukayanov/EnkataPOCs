@@ -1,0 +1,5 @@
+ExchangeTracker/bin/
+ExchangeTracker/obj/
+packages/
+*.user
+*.suo
